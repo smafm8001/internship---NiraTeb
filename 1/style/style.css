@@ -259,8 +259,9 @@
 
 											.tooth-image{
 												width: 90%;
-												overflow-x: auto;
+												/* overflow-x: auto; */
 												display: flex;
+												flex-wrap: wrap;
 												margin-right: 15px;
 											}
 
